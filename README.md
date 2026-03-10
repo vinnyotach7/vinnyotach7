@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:00bfff&height=200&section=header&text=Vincent%20Otach&fontSize=40&fontColor=ffffff"/>
 # 👋 Hi, I'm Vincent Otach
 
 🚀 Fullstack Developer | Digital Marketer | Problem Solver
@@ -18,6 +19,17 @@ I combine **software development skills with digital marketing strategy** to cre
 I enjoy building web applications, solving complex problems, and continuously learning new technologies.
 
 ---
+
+## 🌐 Connect With Me
+
+💼 Portfolio  
+https://coder-portfolio-pal.lovable.app/
+
+📧 Email  
+vinnyotach7@gmail.com
+
+💻 GitHub  
+https://github.com/vinnyotach7
 
 ## 🛠 Tech Stack
 
@@ -90,9 +102,9 @@ Nairobi, Kenya
 
 ## 📊 GitHub Stats
 
-![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinnyotach7&show_icons=true&theme=radical)
+![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinnyotach7&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnyotach7&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinnyotach7&layout=compact&theme=tokyonight)
 
 ## ⚡ Technologies
 
